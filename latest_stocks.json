@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27T22:05:28",
+  "updated_at": "2026-09-28T22:08:27",
   "count": 89,
   "items": [
     {
@@ -37,7 +37,7 @@
       "revenue_mom_pct": -1.66,
       "revenue_ytd_yoy_pct": 2.7,
       "reasons": "S0:距60日高3.3%｜5MA斜率2.69%｜量比0.69（未爆量）",
-      "scanned_at": "2026-09-27T20:45:30"
+      "scanned_at": "2026-09-28T20:51:38"
     },
     {
       "date": "2026-09-24",
@@ -74,7 +74,7 @@
       "revenue_mom_pct": 3.56,
       "revenue_ytd_yoy_pct": -6.56,
       "reasons": "S0:距60日高3.8%｜5MA斜率1.00%｜量比1.01（未爆量）",
-      "scanned_at": "2026-09-27T20:45:33"
+      "scanned_at": "2026-09-28T20:51:40"
     },
     {
       "date": "2026-09-24",
@@ -111,7 +111,7 @@
       "revenue_mom_pct": 1.44,
       "revenue_ytd_yoy_pct": 24.45,
       "reasons": "S3:多頭排列｜5MA斜率22.22%｜距60日高2.1%",
-      "scanned_at": "2026-09-27T20:51:10"
+      "scanned_at": "2026-09-28T20:57:05"
     },
     {
       "date": "2026-09-24",
@@ -148,7 +148,7 @@
       "revenue_mom_pct": 0.84,
       "revenue_ytd_yoy_pct": -7.65,
       "reasons": "S3:多頭排列｜5MA斜率22.65%｜距60日高2.6%",
-      "scanned_at": "2026-09-27T20:51:19"
+      "scanned_at": "2026-09-28T20:57:14"
     },
     {
       "date": "2026-09-24",
@@ -185,7 +185,7 @@
       "revenue_mom_pct": -21.6,
       "revenue_ytd_yoy_pct": 27.77,
       "reasons": "S3:多頭排列｜5MA斜率16.29%｜距60日高5.0%",
-      "scanned_at": "2026-09-27T20:51:49"
+      "scanned_at": "2026-09-28T20:57:43"
     },
     {
       "date": "2026-09-24",
@@ -222,7 +222,7 @@
       "revenue_mom_pct": 9.09,
       "revenue_ytd_yoy_pct": 26.37,
       "reasons": "S3:多頭排列｜5MA斜率16.76%｜距60日高0.9%",
-      "scanned_at": "2026-09-27T20:53:14"
+      "scanned_at": "2026-09-28T20:59:07"
     },
     {
       "date": "2026-09-24",
@@ -259,7 +259,7 @@
       "revenue_mom_pct": 0.72,
       "revenue_ytd_yoy_pct": 2.35,
       "reasons": "S3:多頭排列｜5MA斜率5.79%｜距60日高1.6%",
-      "scanned_at": "2026-09-27T20:54:59"
+      "scanned_at": "2026-09-28T21:00:51"
     },
     {
       "date": "2026-09-24",
@@ -296,7 +296,7 @@
       "revenue_mom_pct": 8.99,
       "revenue_ytd_yoy_pct": 20.41,
       "reasons": "S2:量能3.6x｜創60日新高｜站上60/120MA｜實體長紅",
-      "scanned_at": "2026-09-27T20:55:43"
+      "scanned_at": "2026-09-28T21:01:32"
     },
     {
       "date": "2026-09-24",
@@ -333,7 +333,7 @@
       "revenue_mom_pct": -6.17,
       "revenue_ytd_yoy_pct": -0.04,
       "reasons": "S3:多頭排列｜5MA斜率6.72%｜距60日高-1.8%",
-      "scanned_at": "2026-09-27T20:55:51"
+      "scanned_at": "2026-09-28T21:01:43"
     },
     {
       "date": "2026-09-24",
@@ -370,7 +370,7 @@
       "revenue_mom_pct": -21.66,
       "revenue_ytd_yoy_pct": -13.82,
       "reasons": "S3:多頭排列｜5MA斜率4.30%｜距60日高4.3%",
-      "scanned_at": "2026-09-27T20:56:37"
+      "scanned_at": "2026-09-28T21:02:28"
     },
     {
       "date": "2026-09-24",
@@ -407,7 +407,7 @@
       "revenue_mom_pct": 42.19,
       "revenue_ytd_yoy_pct": 29.09,
       "reasons": "S0:距60日高2.7%｜5MA斜率47.94%｜量比0.25（未爆量）",
-      "scanned_at": "2026-09-27T20:57:11"
+      "scanned_at": "2026-09-28T21:03:03"
     },
     {
       "date": "2026-09-24",
@@ -444,7 +444,7 @@
       "revenue_mom_pct": 1.49,
       "revenue_ytd_yoy_pct": 113.21,
       "reasons": "S0:距60日高4.1%｜5MA斜率29.44%｜量比0.23（未爆量）",
-      "scanned_at": "2026-09-27T20:57:56"
+      "scanned_at": "2026-09-28T21:03:42"
     },
     {
       "date": "2026-09-24",
@@ -481,7 +481,7 @@
       "revenue_mom_pct": 10.1,
       "revenue_ytd_yoy_pct": 39.26,
       "reasons": "S0:距60日高1.4%｜5MA斜率3.30%｜量比0.70（未爆量）",
-      "scanned_at": "2026-09-27T20:58:32"
+      "scanned_at": "2026-09-28T21:04:14"
     },
     {
       "date": "2026-09-24",
@@ -518,7 +518,7 @@
       "revenue_mom_pct": 2.59,
       "revenue_ytd_yoy_pct": 89.66,
       "reasons": "S3:多頭排列｜5MA斜率3.19%｜距60日高3.9%",
-      "scanned_at": "2026-09-27T20:58:54"
+      "scanned_at": "2026-09-28T21:04:36"
     },
     {
       "date": "2026-09-24",
@@ -555,7 +555,7 @@
       "revenue_mom_pct": 19.17,
       "revenue_ytd_yoy_pct": -0.69,
       "reasons": "S0:距60日高4.9%｜5MA斜率3.79%｜量比0.72（未爆量）",
-      "scanned_at": "2026-09-27T20:59:43"
+      "scanned_at": "2026-09-28T21:05:24"
     },
     {
       "date": "2026-09-24",
@@ -592,7 +592,7 @@
       "revenue_mom_pct": -7.57,
       "revenue_ytd_yoy_pct": 45.88,
       "reasons": "S3:多頭排列｜5MA斜率3.28%｜距60日高0.7%",
-      "scanned_at": "2026-09-27T21:00:23"
+      "scanned_at": "2026-09-28T21:06:03"
     },
     {
       "date": "2026-09-24",
@@ -629,7 +629,7 @@
       "revenue_mom_pct": 13.41,
       "revenue_ytd_yoy_pct": -1.82,
       "reasons": "S3:多頭排列｜5MA斜率15.77%｜距60日高6.7%",
-      "scanned_at": "2026-09-27T21:00:46"
+      "scanned_at": "2026-09-28T21:06:21"
     },
     {
       "date": "2026-09-24",
@@ -666,7 +666,7 @@
       "revenue_mom_pct": 17.22,
       "revenue_ytd_yoy_pct": 9.5,
       "reasons": "S0:距60日高0.3%｜5MA斜率1.47%｜量比0.53（未爆量）",
-      "scanned_at": "2026-09-27T21:00:49"
+      "scanned_at": "2026-09-28T21:06:24"
     },
     {
       "date": "2026-09-24",
@@ -703,7 +703,7 @@
       "revenue_mom_pct": 32.41,
       "revenue_ytd_yoy_pct": 5.76,
       "reasons": "S3:多頭排列｜5MA斜率12.23%｜距60日高3.6%",
-      "scanned_at": "2026-09-27T21:02:05"
+      "scanned_at": "2026-09-28T21:07:35"
     },
     {
       "date": "2026-09-24",
@@ -740,7 +740,7 @@
       "revenue_mom_pct": 15.94,
       "revenue_ytd_yoy_pct": 1.39,
       "reasons": "S3:多頭排列｜5MA斜率9.08%｜距60日高5.5%",
-      "scanned_at": "2026-09-27T21:02:30"
+      "scanned_at": "2026-09-28T21:08:03"
     },
     {
       "date": "2026-09-24",
@@ -777,7 +777,7 @@
       "revenue_mom_pct": -5.05,
       "revenue_ytd_yoy_pct": -33.11,
       "reasons": "S0:距60日高3.7%｜5MA斜率1.70%｜量比0.70（未爆量）",
-      "scanned_at": "2026-09-27T21:02:42"
+      "scanned_at": "2026-09-28T21:08:14"
     },
     {
       "date": "2026-09-24",
@@ -814,7 +814,7 @@
       "revenue_mom_pct": -4.79,
       "revenue_ytd_yoy_pct": 16.45,
       "reasons": "S0:距60日高3.6%｜5MA斜率2.07%｜量比0.42（未爆量）",
-      "scanned_at": "2026-09-27T21:02:51"
+      "scanned_at": "2026-09-28T21:08:23"
     },
     {
       "date": "2026-09-24",
@@ -851,7 +851,7 @@
       "revenue_mom_pct": -13.99,
       "revenue_ytd_yoy_pct": 9.93,
       "reasons": "S0:距60日高5.0%｜5MA斜率1.55%｜量比0.75（未爆量）",
-      "scanned_at": "2026-09-27T21:06:32"
+      "scanned_at": "2026-09-28T21:11:52"
     },
     {
       "date": "2026-09-24",
@@ -888,7 +888,7 @@
       "revenue_mom_pct": 60.13,
       "revenue_ytd_yoy_pct": 16.35,
       "reasons": "S0:距60日高3.0%｜5MA斜率1.84%｜量比0.57（未爆量）",
-      "scanned_at": "2026-09-27T21:07:17"
+      "scanned_at": "2026-09-28T21:12:36"
     },
     {
       "date": "2026-09-24",
@@ -925,7 +925,7 @@
       "revenue_mom_pct": 66.11,
       "revenue_ytd_yoy_pct": 75.57,
       "reasons": "S0:距60日高2.1%｜5MA斜率1.49%｜量比0.56（未爆量）",
-      "scanned_at": "2026-09-27T21:07:39"
+      "scanned_at": "2026-09-28T21:12:58"
     },
     {
       "date": "2026-09-24",
@@ -962,7 +962,7 @@
       "revenue_mom_pct": 122.48,
       "revenue_ytd_yoy_pct": 217.4,
       "reasons": "S3:多頭排列｜5MA斜率8.68%｜距60日高3.2%",
-      "scanned_at": "2026-09-27T21:07:43"
+      "scanned_at": "2026-09-28T21:13:04"
     },
     {
       "date": "2026-09-24",
@@ -999,7 +999,7 @@
       "revenue_mom_pct": 280.36,
       "revenue_ytd_yoy_pct": 172.43,
       "reasons": "S0:距60日高4.2%｜5MA斜率0.59%｜量比0.48（未爆量）",
-      "scanned_at": "2026-09-27T21:07:48"
+      "scanned_at": "2026-09-28T21:13:08"
     },
     {
       "date": "2026-09-24",
@@ -1036,7 +1036,7 @@
       "revenue_mom_pct": 60.64,
       "revenue_ytd_yoy_pct": 4170.37,
       "reasons": "S0:距60日高4.5%｜5MA斜率1.94%｜量比0.43（未爆量）",
-      "scanned_at": "2026-09-27T21:07:53"
+      "scanned_at": "2026-09-28T21:13:14"
     },
     {
       "date": "2026-09-24",
@@ -1073,7 +1073,7 @@
       "revenue_mom_pct": 11.53,
       "revenue_ytd_yoy_pct": 116.28,
       "reasons": "S0:距60日高3.5%｜5MA斜率0.66%｜量比0.57（未爆量）",
-      "scanned_at": "2026-09-27T21:07:58"
+      "scanned_at": "2026-09-28T21:13:18"
     },
     {
       "date": "2026-09-24",
@@ -1110,7 +1110,7 @@
       "revenue_mom_pct": 0.98,
       "revenue_ytd_yoy_pct": 53.91,
       "reasons": "S0:距60日高2.6%｜5MA斜率1.00%｜量比0.38（未爆量）",
-      "scanned_at": "2026-09-27T21:08:09"
+      "scanned_at": "2026-09-28T21:13:28"
     },
     {
       "date": "2026-09-24",
@@ -1147,7 +1147,7 @@
       "revenue_mom_pct": 8.17,
       "revenue_ytd_yoy_pct": -0.5,
       "reasons": "S0:距60日高4.1%｜5MA斜率1.09%｜量比0.75（未爆量）",
-      "scanned_at": "2026-09-27T21:08:19"
+      "scanned_at": "2026-09-28T21:13:41"
     },
     {
       "date": "2026-09-24",
@@ -1184,7 +1184,7 @@
       "revenue_mom_pct": 13.1,
       "revenue_ytd_yoy_pct": -21.69,
       "reasons": "S3:多頭排列｜5MA斜率4.31%｜距60日高4.0%",
-      "scanned_at": "2026-09-27T21:08:42"
+      "scanned_at": "2026-09-28T21:14:01"
     },
     {
       "date": "2026-09-24",
@@ -1221,7 +1221,7 @@
       "revenue_mom_pct": 5.11,
       "revenue_ytd_yoy_pct": 34.73,
       "reasons": "S3:多頭排列｜5MA斜率19.89%｜距60日高-10.0%",
-      "scanned_at": "2026-09-27T21:09:42"
+      "scanned_at": "2026-09-28T21:15:00"
     },
     {
       "date": "2026-09-24",
@@ -1258,7 +1258,7 @@
       "revenue_mom_pct": 4.79,
       "revenue_ytd_yoy_pct": 76.1,
       "reasons": "S0:距60日高1.1%｜5MA斜率6.84%｜量比0.73（未爆量）",
-      "scanned_at": "2026-09-27T21:09:45"
+      "scanned_at": "2026-09-28T21:15:02"
     },
     {
       "date": "2026-09-24",
@@ -1295,7 +1295,7 @@
       "revenue_mom_pct": 7.58,
       "revenue_ytd_yoy_pct": 20.13,
       "reasons": "S0:距60日高4.8%｜5MA斜率3.15%｜量比0.54（未爆量）",
-      "scanned_at": "2026-09-27T21:10:13"
+      "scanned_at": "2026-09-28T21:15:26"
     },
     {
       "date": "2026-09-24",
@@ -1332,7 +1332,7 @@
       "revenue_mom_pct": 9.18,
       "revenue_ytd_yoy_pct": 34.16,
       "reasons": "S0:距60日高3.7%｜5MA斜率13.90%｜量比0.74（未爆量）",
-      "scanned_at": "2026-09-27T21:10:30"
+      "scanned_at": "2026-09-28T21:15:45"
     },
     {
       "date": "2026-09-24",
@@ -1369,7 +1369,7 @@
       "revenue_mom_pct": 4.1,
       "revenue_ytd_yoy_pct": 38.72,
       "reasons": "S0:距60日高1.6%｜5MA斜率5.87%｜量比0.49（未爆量）",
-      "scanned_at": "2026-09-27T21:10:45"
+      "scanned_at": "2026-09-28T21:15:59"
     },
     {
       "date": "2026-09-24",
@@ -1406,7 +1406,7 @@
       "revenue_mom_pct": -5.21,
       "revenue_ytd_yoy_pct": 17.1,
       "reasons": "S3:多頭排列｜5MA斜率23.32%｜距60日高6.1%",
-      "scanned_at": "2026-09-27T21:12:06"
+      "scanned_at": "2026-09-28T21:17:12"
     },
     {
       "date": "2026-09-24",
@@ -1443,7 +1443,7 @@
       "revenue_mom_pct": 2.4,
       "revenue_ytd_yoy_pct": 33.01,
       "reasons": "S0:距60日高3.1%｜5MA斜率9.28%｜量比0.67（未爆量）",
-      "scanned_at": "2026-09-27T21:12:11"
+      "scanned_at": "2026-09-28T21:17:17"
     },
     {
       "date": "2026-09-24",
@@ -1480,7 +1480,7 @@
       "revenue_mom_pct": 6.37,
       "revenue_ytd_yoy_pct": 135.15,
       "reasons": "S3:多頭排列｜5MA斜率6.68%｜距60日高2.3%",
-      "scanned_at": "2026-09-27T21:12:54"
+      "scanned_at": "2026-09-28T21:17:59"
     },
     {
       "date": "2026-09-24",
@@ -1517,7 +1517,7 @@
       "revenue_mom_pct": 5.73,
       "revenue_ytd_yoy_pct": 32.09,
       "reasons": "S3:多頭排列｜5MA斜率9.80%｜距60日高-0.2%",
-      "scanned_at": "2026-09-27T21:13:11"
+      "scanned_at": "2026-09-28T21:18:15"
     },
     {
       "date": "2026-09-24",
@@ -1554,7 +1554,7 @@
       "revenue_mom_pct": 1.68,
       "revenue_ytd_yoy_pct": 32.2,
       "reasons": "S3:多頭排列｜5MA斜率23.33%｜距60日高-4.1%",
-      "scanned_at": "2026-09-27T21:13:34"
+      "scanned_at": "2026-09-28T21:18:40"
     },
     {
       "date": "2026-09-24",
@@ -1591,7 +1591,7 @@
       "revenue_mom_pct": 79.76,
       "revenue_ytd_yoy_pct": 15.6,
       "reasons": "S0:距60日高3.9%｜5MA斜率3.30%｜量比1.08（未爆量）",
-      "scanned_at": "2026-09-27T21:15:09"
+      "scanned_at": "2026-09-28T21:20:09"
     },
     {
       "date": "2026-09-24",
@@ -1628,7 +1628,7 @@
       "revenue_mom_pct": -16.58,
       "revenue_ytd_yoy_pct": 81.01,
       "reasons": "S3:多頭排列｜5MA斜率18.52%｜距60日高-4.9%",
-      "scanned_at": "2026-09-27T21:15:27"
+      "scanned_at": "2026-09-28T21:20:26"
     },
     {
       "date": "2026-09-24",
@@ -1665,7 +1665,7 @@
       "revenue_mom_pct": 2.79,
       "revenue_ytd_yoy_pct": -0.93,
       "reasons": "S3:多頭排列｜5MA斜率7.98%｜距60日高4.3%",
-      "scanned_at": "2026-09-27T21:15:37"
+      "scanned_at": "2026-09-28T21:20:36"
     },
     {
       "date": "2026-09-24",
@@ -1702,7 +1702,7 @@
       "revenue_mom_pct": 1.23,
       "revenue_ytd_yoy_pct": 103.84,
       "reasons": "S0:距60日高0.2%｜5MA斜率28.26%｜量比0.78（未爆量）",
-      "scanned_at": "2026-09-27T21:16:44"
+      "scanned_at": "2026-09-28T21:21:39"
     },
     {
       "date": "2026-09-24",
@@ -1739,7 +1739,7 @@
       "revenue_mom_pct": 37.95,
       "revenue_ytd_yoy_pct": -20.02,
       "reasons": "S3:多頭排列｜5MA斜率7.27%｜距60日高5.7%",
-      "scanned_at": "2026-09-27T21:16:55"
+      "scanned_at": "2026-09-28T21:21:48"
     },
     {
       "date": "2026-09-24",
@@ -1776,7 +1776,7 @@
       "revenue_mom_pct": 39.56,
       "revenue_ytd_yoy_pct": 73.4,
       "reasons": "S0:距60日高1.6%｜5MA斜率8.47%｜量比0.54（未爆量）",
-      "scanned_at": "2026-09-27T21:17:20"
+      "scanned_at": "2026-09-28T21:22:15"
     },
     {
       "date": "2026-09-24",
@@ -1813,7 +1813,7 @@
       "revenue_mom_pct": -16.31,
       "revenue_ytd_yoy_pct": 154.8,
       "reasons": "S0:距60日高3.4%｜5MA斜率8.43%｜量比1.12（未爆量）",
-      "scanned_at": "2026-09-27T21:17:27"
+      "scanned_at": "2026-09-28T21:22:23"
     },
     {
       "date": "2026-09-24",
@@ -1850,7 +1850,7 @@
       "revenue_mom_pct": -47.19,
       "revenue_ytd_yoy_pct": 21.9,
       "reasons": "S3:多頭排列｜5MA斜率14.80%｜距60日高3.6%",
-      "scanned_at": "2026-09-27T21:18:12"
+      "scanned_at": "2026-09-28T21:23:03"
     },
     {
       "date": "2026-09-24",
@@ -1887,7 +1887,7 @@
       "revenue_mom_pct": 55.99,
       "revenue_ytd_yoy_pct": -6.0,
       "reasons": "S3:多頭排列｜5MA斜率14.14%｜距60日高3.3%",
-      "scanned_at": "2026-09-27T21:19:19"
+      "scanned_at": "2026-09-28T21:24:02"
     },
     {
       "date": "2026-09-24",
@@ -1924,7 +1924,7 @@
       "revenue_mom_pct": -4.94,
       "revenue_ytd_yoy_pct": 17.16,
       "reasons": "S0:距60日高2.7%｜5MA斜率30.69%｜量比0.69（未爆量）",
-      "scanned_at": "2026-09-27T21:19:46"
+      "scanned_at": "2026-09-28T21:24:29"
     },
     {
       "date": "2026-09-24",
@@ -1961,7 +1961,7 @@
       "revenue_mom_pct": 0.4,
       "revenue_ytd_yoy_pct": 42.93,
       "reasons": "S3:多頭排列｜5MA斜率10.86%｜距60日高-8.0%",
-      "scanned_at": "2026-09-27T21:20:33"
+      "scanned_at": "2026-09-28T21:25:15"
     },
     {
       "date": "2026-09-24",
@@ -1998,7 +1998,7 @@
       "revenue_mom_pct": 3.42,
       "revenue_ytd_yoy_pct": 25.27,
       "reasons": "S3:多頭排列｜5MA斜率5.07%｜距60日高1.4%",
-      "scanned_at": "2026-09-27T21:21:19"
+      "scanned_at": "2026-09-28T21:25:57"
     },
     {
       "date": "2026-09-24",
@@ -2035,7 +2035,7 @@
       "revenue_mom_pct": 11.47,
       "revenue_ytd_yoy_pct": 27.98,
       "reasons": "S0:距60日高4.1%｜5MA斜率11.34%｜量比0.62（未爆量）",
-      "scanned_at": "2026-09-27T21:21:50"
+      "scanned_at": "2026-09-28T21:26:26"
     },
     {
       "date": "2026-09-24",
@@ -2072,7 +2072,7 @@
       "revenue_mom_pct": -2.07,
       "revenue_ytd_yoy_pct": 8.28,
       "reasons": "S0:距60日高1.6%｜5MA斜率0.61%｜量比0.53（未爆量）",
-      "scanned_at": "2026-09-27T21:22:14"
+      "scanned_at": "2026-09-28T21:26:52"
     },
     {
       "date": "2026-09-24",
@@ -2109,7 +2109,7 @@
       "revenue_mom_pct": 5.47,
       "revenue_ytd_yoy_pct": 3.28,
       "reasons": "S0:距60日高3.7%｜5MA斜率2.01%｜量比0.65（未爆量）",
-      "scanned_at": "2026-09-27T21:27:42"
+      "scanned_at": "2026-09-28T21:32:00"
     },
     {
       "date": "2026-09-24",
@@ -2146,7 +2146,7 @@
       "revenue_mom_pct": -6.56,
       "revenue_ytd_yoy_pct": 1.48,
       "reasons": "S3:多頭排列｜5MA斜率15.55%｜距60日高-2.4%",
-      "scanned_at": "2026-09-27T21:28:28"
+      "scanned_at": "2026-09-28T21:32:46"
     },
     {
       "date": "2026-09-24",
@@ -2183,7 +2183,7 @@
       "revenue_mom_pct": 38.89,
       "revenue_ytd_yoy_pct": 34.12,
       "reasons": "S0:距60日高4.3%｜5MA斜率4.35%｜量比0.55（未爆量）",
-      "scanned_at": "2026-09-27T21:28:31"
+      "scanned_at": "2026-09-28T21:32:48"
     },
     {
       "date": "2026-09-24",
@@ -2220,7 +2220,7 @@
       "revenue_mom_pct": -11.58,
       "revenue_ytd_yoy_pct": 4.87,
       "reasons": "S3:多頭排列｜5MA斜率28.10%｜距60日高5.5%",
-      "scanned_at": "2026-09-27T21:29:56"
+      "scanned_at": "2026-09-28T21:34:09"
     },
     {
       "date": "2026-09-24",
@@ -2257,7 +2257,7 @@
       "revenue_mom_pct": 7.25,
       "revenue_ytd_yoy_pct": 10.63,
       "reasons": "S0:距60日高3.0%｜5MA斜率1.80%｜量比0.42（未爆量）",
-      "scanned_at": "2026-09-27T21:30:02"
+      "scanned_at": "2026-09-28T21:34:17"
     },
     {
       "date": "2026-09-24",
@@ -2294,7 +2294,7 @@
       "revenue_mom_pct": 12.18,
       "revenue_ytd_yoy_pct": -0.19,
       "reasons": "S2:量能4.4x｜創60日新高｜站上60/120MA｜實體長紅",
-      "scanned_at": "2026-09-27T21:37:49"
+      "scanned_at": "2026-09-28T21:41:42"
     },
     {
       "date": "2026-09-24",
@@ -2331,7 +2331,7 @@
       "revenue_mom_pct": 41.38,
       "revenue_ytd_yoy_pct": -34.77,
       "reasons": "S3:多頭排列｜5MA斜率11.20%｜距60日高6.9%",
-      "scanned_at": "2026-09-27T21:38:42"
+      "scanned_at": "2026-09-28T21:42:30"
     },
     {
       "date": "2026-09-24",
@@ -2368,7 +2368,7 @@
       "revenue_mom_pct": 7.7,
       "revenue_ytd_yoy_pct": 9.29,
       "reasons": "S0:距60日高3.5%｜5MA斜率34.97%｜量比0.57（未爆量）",
-      "scanned_at": "2026-09-27T21:39:22"
+      "scanned_at": "2026-09-28T21:43:06"
     },
     {
       "date": "2026-09-24",
@@ -2405,7 +2405,7 @@
       "revenue_mom_pct": -3.98,
       "revenue_ytd_yoy_pct": 51.72,
       "reasons": "S3:多頭排列｜5MA斜率5.34%｜距60日高6.9%",
-      "scanned_at": "2026-09-27T21:40:17"
+      "scanned_at": "2026-09-28T21:44:08"
     },
     {
       "date": "2026-09-24",
@@ -2442,7 +2442,7 @@
       "revenue_mom_pct": 6.95,
       "revenue_ytd_yoy_pct": 527.79,
       "reasons": "S3:多頭排列｜5MA斜率15.94%｜距60日高-1.6%",
-      "scanned_at": "2026-09-27T21:40:24"
+      "scanned_at": "2026-09-28T21:44:13"
     },
     {
       "date": "2026-09-24",
@@ -2479,7 +2479,7 @@
       "revenue_mom_pct": 6.21,
       "revenue_ytd_yoy_pct": 42.25,
       "reasons": "S3:多頭排列｜5MA斜率5.33%｜距60日高0.7%",
-      "scanned_at": "2026-09-27T21:40:53"
+      "scanned_at": "2026-09-28T21:44:39"
     },
     {
       "date": "2026-09-24",
@@ -2516,7 +2516,7 @@
       "revenue_mom_pct": 76.28,
       "revenue_ytd_yoy_pct": -27.96,
       "reasons": "S0:距60日高1.5%｜5MA斜率16.36%｜量比0.84（未爆量）",
-      "scanned_at": "2026-09-27T21:41:11"
+      "scanned_at": "2026-09-28T21:44:56"
     },
     {
       "date": "2026-09-24",
@@ -2553,7 +2553,7 @@
       "revenue_mom_pct": -6.38,
       "revenue_ytd_yoy_pct": 30.59,
       "reasons": "S0:距60日高2.9%｜5MA斜率2.30%｜量比0.51（未爆量）",
-      "scanned_at": "2026-09-27T21:43:10"
+      "scanned_at": "2026-09-28T21:46:54"
     },
     {
       "date": "2026-09-24",
@@ -2590,7 +2590,7 @@
       "revenue_mom_pct": -6.33,
       "revenue_ytd_yoy_pct": 68.31,
       "reasons": "S3:多頭排列｜5MA斜率17.24%｜距60日高0.6%",
-      "scanned_at": "2026-09-27T21:43:43"
+      "scanned_at": "2026-09-28T21:47:27"
     },
     {
       "date": "2026-09-24",
@@ -2627,7 +2627,7 @@
       "revenue_mom_pct": 0.64,
       "revenue_ytd_yoy_pct": 22.5,
       "reasons": "S0:距60日高2.2%｜5MA斜率4.32%｜量比0.46（未爆量）",
-      "scanned_at": "2026-09-27T21:44:47"
+      "scanned_at": "2026-09-28T21:48:27"
     },
     {
       "date": "2026-09-24",
@@ -2664,7 +2664,7 @@
       "revenue_mom_pct": 2.21,
       "revenue_ytd_yoy_pct": 12.53,
       "reasons": "S3:多頭排列｜5MA斜率23.09%｜距60日高0.0%",
-      "scanned_at": "2026-09-27T21:45:30"
+      "scanned_at": "2026-09-28T21:49:13"
     },
     {
       "date": "2026-09-24",
@@ -2701,7 +2701,7 @@
       "revenue_mom_pct": -0.27,
       "revenue_ytd_yoy_pct": 16.33,
       "reasons": "S0:距60日高4.8%｜5MA斜率6.46%｜量比0.60（未爆量）",
-      "scanned_at": "2026-09-27T21:45:35"
+      "scanned_at": "2026-09-28T21:49:17"
     },
     {
       "date": "2026-09-24",
@@ -2738,7 +2738,7 @@
       "revenue_mom_pct": -6.61,
       "revenue_ytd_yoy_pct": 109.13,
       "reasons": "S3:多頭排列｜5MA斜率2.57%｜距60日高6.8%",
-      "scanned_at": "2026-09-27T21:45:38"
+      "scanned_at": "2026-09-28T21:49:20"
     },
     {
       "date": "2026-09-24",
@@ -2775,7 +2775,7 @@
       "revenue_mom_pct": -12.87,
       "revenue_ytd_yoy_pct": 14.98,
       "reasons": "S0:距60日高4.8%｜5MA斜率6.44%｜量比0.52（未爆量）",
-      "scanned_at": "2026-09-27T21:45:40"
+      "scanned_at": "2026-09-28T21:49:23"
     },
     {
       "date": "2026-09-24",
@@ -2812,7 +2812,7 @@
       "revenue_mom_pct": 3.11,
       "revenue_ytd_yoy_pct": 3.08,
       "reasons": "S0:距60日高2.5%｜5MA斜率1.90%｜量比0.41（未爆量）",
-      "scanned_at": "2026-09-27T21:47:15"
+      "scanned_at": "2026-09-28T21:50:57"
     },
     {
       "date": "2026-09-24",
@@ -2849,7 +2849,7 @@
       "revenue_mom_pct": 6.47,
       "revenue_ytd_yoy_pct": 4.06,
       "reasons": "S3:多頭排列｜5MA斜率15.40%｜距60日高3.9%",
-      "scanned_at": "2026-09-27T21:47:56"
+      "scanned_at": "2026-09-28T21:51:36"
     },
     {
       "date": "2026-09-24",
@@ -2886,7 +2886,7 @@
       "revenue_mom_pct": 21.13,
       "revenue_ytd_yoy_pct": 53.6,
       "reasons": "S3:多頭排列｜5MA斜率5.66%｜距60日高-4.0%",
-      "scanned_at": "2026-09-27T21:48:34"
+      "scanned_at": "2026-09-28T21:52:15"
     },
     {
       "date": "2026-09-24",
@@ -2923,7 +2923,7 @@
       "revenue_mom_pct": -1.13,
       "revenue_ytd_yoy_pct": 66.77,
       "reasons": "S0:距60日高4.2%｜5MA斜率3.43%｜量比0.62（未爆量）",
-      "scanned_at": "2026-09-27T21:52:32"
+      "scanned_at": "2026-09-28T21:55:52"
     },
     {
       "date": "2026-09-24",
@@ -2960,7 +2960,7 @@
       "revenue_mom_pct": 2.04,
       "revenue_ytd_yoy_pct": 28.2,
       "reasons": "S3:多頭排列｜5MA斜率29.99%｜距60日高0.0%",
-      "scanned_at": "2026-09-27T21:52:42"
+      "scanned_at": "2026-09-28T21:56:02"
     },
     {
       "date": "2026-09-24",
@@ -2997,7 +2997,7 @@
       "revenue_mom_pct": 0.1,
       "revenue_ytd_yoy_pct": 2.93,
       "reasons": "S2:量能6.9x｜創60日新高｜站上60/120MA｜實體長紅+向上跳空",
-      "scanned_at": "2026-09-27T21:53:16"
+      "scanned_at": "2026-09-28T21:56:35"
     },
     {
       "date": "2026-09-24",
@@ -3034,7 +3034,7 @@
       "revenue_mom_pct": -5.75,
       "revenue_ytd_yoy_pct": 51.58,
       "reasons": "S2:量能3.5x｜創60日新高｜站上60/120MA｜實體長紅+向上跳空",
-      "scanned_at": "2026-09-27T21:53:25"
+      "scanned_at": "2026-09-28T21:56:45"
     },
     {
       "date": "2026-09-24",
@@ -3071,7 +3071,7 @@
       "revenue_mom_pct": 27.87,
       "revenue_ytd_yoy_pct": 45.3,
       "reasons": "S0:距60日高4.8%｜5MA斜率5.28%｜量比1.20（未爆量）",
-      "scanned_at": "2026-09-27T21:53:33"
+      "scanned_at": "2026-09-28T21:56:52"
     },
     {
       "date": "2026-09-24",
@@ -3108,7 +3108,7 @@
       "revenue_mom_pct": 10.67,
       "revenue_ytd_yoy_pct": 8.5,
       "reasons": "S3:多頭排列｜5MA斜率17.37%｜距60日高1.6%",
-      "scanned_at": "2026-09-27T21:53:47"
+      "scanned_at": "2026-09-28T21:57:05"
     },
     {
       "date": "2026-09-24",
@@ -3145,7 +3145,7 @@
       "revenue_mom_pct": 9.95,
       "revenue_ytd_yoy_pct": 21.55,
       "reasons": "S2:量能3.7x｜創60日新高｜站上60/120MA｜實體長紅",
-      "scanned_at": "2026-09-27T21:56:19"
+      "scanned_at": "2026-09-28T21:59:35"
     },
     {
       "date": "2026-09-24",
@@ -3182,7 +3182,7 @@
       "revenue_mom_pct": 14.2,
       "revenue_ytd_yoy_pct": 73.17,
       "reasons": "S0:距60日高3.0%｜5MA斜率18.14%｜量比0.32（未爆量）",
-      "scanned_at": "2026-09-27T22:00:17"
+      "scanned_at": "2026-09-28T22:03:26"
     },
     {
       "date": "2026-09-24",
@@ -3219,7 +3219,7 @@
       "revenue_mom_pct": 5.41,
       "revenue_ytd_yoy_pct": -1.77,
       "reasons": "S0:距60日高2.5%｜5MA斜率1.81%｜量比0.77（未爆量）",
-      "scanned_at": "2026-09-27T22:04:06"
+      "scanned_at": "2026-09-28T22:07:08"
     },
     {
       "date": "2026-09-24",
@@ -3256,7 +3256,7 @@
       "revenue_mom_pct": 1.12,
       "revenue_ytd_yoy_pct": 2.38,
       "reasons": "S0:距60日高2.3%｜5MA斜率0.66%｜量比0.27（未爆量）",
-      "scanned_at": "2026-09-27T22:04:28"
+      "scanned_at": "2026-09-28T22:07:31"
     },
     {
       "date": "2026-09-24",
@@ -3293,7 +3293,7 @@
       "revenue_mom_pct": 4.29,
       "revenue_ytd_yoy_pct": 34.41,
       "reasons": "S3:多頭排列｜5MA斜率4.05%｜距60日高3.1%",
-      "scanned_at": "2026-09-27T22:05:28"
+      "scanned_at": "2026-09-28T22:08:27"
     }
   ]
 }
